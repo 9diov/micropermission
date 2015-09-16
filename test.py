@@ -1,0 +1,1 @@
+from micropermission import Permission
